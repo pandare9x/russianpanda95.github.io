@@ -49,10 +49,6 @@ disqus-identifier: russianpanda # Add your shortname for Disqus Comment. For exa
 google-analytics: # Add your identifier. For example UA-99631805-1.
 
 
-#-------------------------------
-# Newsletter
-mailchimp: enable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
-mailchimp-identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
 
 #-------------------------------
